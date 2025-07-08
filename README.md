@@ -35,6 +35,11 @@ Gained experience in building mobile-first responsive layouts.
 
 Practiced DOM manipulation and event handling using vanilla JavaScript.
 
+OUTPUT IMAGES 
+
+<img width="1366" height="593" alt="Image" src="https://github.com/user-attachments/assets/8ad0efda-fa22-4fc5-a711-8d435dcc8d78" />
+<img width="497" height="551" alt="Image" src="https://github.com/user-attachments/assets/559f372a-ae47-4883-aae4-914f822caa64" />
+
 Learned to implement Intersection Observer API for scroll-based animations.
 
 Improved understanding of CSS positioning, media queries, and UI behavior without altering the HTML structure.
